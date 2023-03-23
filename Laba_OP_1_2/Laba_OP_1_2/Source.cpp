@@ -143,7 +143,7 @@ void relocateOldToNewFile(string oldFilename, string newFileName, bool append) {
 	}
 	oldFile.close();
 	newFile.close();
-	fstream oldFileWriter(oldFilename, ios::binary | ios::out | ios::app);
+	fstream oldFileWriter(oldFilename, ios::binary | ios::out);
 	for (int i = 0; i < strongEmpoyees.size(); i++) {
 		writePERSONToFile(&oldFileWriter, strongEmpoyees[i]);
 	}
