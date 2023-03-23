@@ -1,0 +1,7 @@
+﻿  Laba_OP_1_2.cpp
+  Source.cpp
+C:\Users\gonch\source\repos\Laba_OP_1_2\Laba_OP_1_2\Source.cpp(47,18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\gonch\source\repos\Laba_OP_1_2\Laba_OP_1_2\Source.cpp(49,11): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\gonch\source\repos\Laba_OP_1_2\Laba_OP_1_2\Source.cpp(66,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Laba_OP_1_2.vcxproj -> C:\Users\gonch\source\repos\Laba_OP_1_2\x64\Debug\Laba_OP_1_2.exe
